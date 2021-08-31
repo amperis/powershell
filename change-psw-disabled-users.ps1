@@ -31,4 +31,4 @@ foreach($usuario in $usuarios) {
 }
 
 write-host "--------------"
-write
+write-host "$($i) usuarios encontrados"
